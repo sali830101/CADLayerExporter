@@ -1,0 +1,6 @@
+C:\Program Files\Autodesk\Navisworks Manage 2018\Plugins\NavisWorksPlugin\NavisPlugin.dll
+C:\Program Files\Autodesk\Navisworks Manage 2018\Plugins\NavisWorksPlugin\NavisPlugin.pdb
+\\mac\home\documents\visual studio 2015\Projects\ExportCADLayer\ExportCADLayer\obj\Debug\NavisPlugin.dll
+\\mac\home\documents\visual studio 2015\Projects\ExportCADLayer\ExportCADLayer\obj\Debug\NavisPlugin.pdb
+C:\Program Files\Autodesk\Navisworks Manage 2018\Plugins\NavisPlugin\NavisPlugin.dll
+C:\Program Files\Autodesk\Navisworks Manage 2018\Plugins\NavisPlugin\NavisPlugin.pdb

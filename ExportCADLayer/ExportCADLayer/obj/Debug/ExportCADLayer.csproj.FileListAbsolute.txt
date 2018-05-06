@@ -1,0 +1,4 @@
+C:\Program Files\Autodesk\Navisworks Manage 2018\Plugins\NavisWorksPlugin\ExportCADLayer.dll
+C:\Program Files\Autodesk\Navisworks Manage 2018\Plugins\NavisWorksPlugin\ExportCADLayer.pdb
+\\mac\home\documents\visual studio 2015\Projects\ExportCADLayer\ExportCADLayer\obj\Debug\ExportCADLayer.dll
+\\mac\home\documents\visual studio 2015\Projects\ExportCADLayer\ExportCADLayer\obj\Debug\ExportCADLayer.pdb
